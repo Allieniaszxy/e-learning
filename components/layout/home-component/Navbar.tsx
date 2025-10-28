@@ -46,7 +46,7 @@ export default function Navbar() {
                 Login
               </Button>
               <Button className="px-3 py-2 font-bold text-white bg-blue-500 rounded-[10px] cursor-pointer border-none">
-                <Link href="signup">Sign up</Link>
+                <Link href="auth">Sign up</Link>
               </Button>
             </div>
           </nav>
